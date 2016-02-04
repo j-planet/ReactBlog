@@ -1,0 +1,15 @@
+# WebStorm IDE stuff
+.idea/
+
+# node_modules
+node_modules/
+
+# created bundle
+public/bundle.js
+public/bundle.js.map
+
+# bootstrap css
+css/bootstrap-3.3.6-dist
+
+# package.json boiler plate
+package.json

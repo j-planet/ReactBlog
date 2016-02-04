@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "postinstall": "webpack --config ./webpack-prod.config.js --progress --colors"
+  },
+  "dependencies": {
+  },
+  "devDependencies": {
+  }
+}
